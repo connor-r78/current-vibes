@@ -1,0 +1,1 @@
+Build a website for the school newspaper The Current at Ocean Lakes High School with a backend that keeps track of analytics, host the data in SQL database. Use accounts with passwords.
